@@ -2,7 +2,7 @@
 
 A React-based web application built with Vite, TypeScript, and shadcn/ui for tracking and reflecting on decisions.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
