@@ -72,19 +72,8 @@ A React-based web application built with Vite, TypeScript, and shadcn/ui for tra
 └── tailwind.config.ts      # Tailwind CSS configuration
 ```
 
-## 🛠️ Tech Stack
 
-- **Framework**: [React 18](https://reactjs.org/)
-- **Build Tool**: [Vite](https://vitejs.dev/)
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
-- **State Management**: [Zustand](https://github.com/pmndrs/zustand)
-- **Routing**: [React Router 6](https://reactrouter.com/)
-- **Backend/DB**: [Supabase](https://supabase.com/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-
-## 📝 Features
+## Features
 
 - **Decision Tracking**: Add and manage decisions.
 - **Reflection**: Reflect on past decisions to improve future outcomes.
