@@ -6,7 +6,7 @@ A React-based web application built with Vite, TypeScript, and shadcn/ui for tra
 
 ### Prerequisites
 
-- Node.js (v18 or higher recommended)
+- Node.js (v18 or higher recommended)bkaskcb
 - npm (installed by default with Node.js)
 dnkvnknkd
 ### Installation
