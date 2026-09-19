@@ -8,11 +8,11 @@ A React-based web application built with Vite, TypeScript, and shadcn/ui for tra
 
 - Node.js (v18 or higher recommended)bkaskcb
 - npm (installed by default with Node.js)
-dnkvnknkd
+dnkvnknkdcabbkb
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```bashdjcb
    git clone <repository-url>
    cd remix-of-remix-of-remix-of-mindful-memory-main
    ```
